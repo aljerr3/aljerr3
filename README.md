@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aljerr3
-- 👀 I’m interested in PHP, PIC and microcontrolers, arduino, C, C++, Java, Python, JS, Ruby, mysql
+- 👀 I’m interested in Svelte, PHP, PIC and microcontrolers, arduino, C, C++, Java, Python, JS, Ruby, mysql
 - 🌱 I’m currently learning about the life
 - 📫 How to reach me instagram: im_alejandrorodriguez, Twitter: aljerr3, in your heart, and gmail: aljerr3@gmail.com
 
